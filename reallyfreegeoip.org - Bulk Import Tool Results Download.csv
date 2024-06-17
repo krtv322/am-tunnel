@@ -1,0 +1,506 @@
+IP,Country Code,Country Name,Region Code,Region Name,City,Zip Code,Time Zone,Latitude,Longitude,Metro Code
+1.255.101.116,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+103.127.125.140,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+103.86.46.91,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+104.29.13.18,US,United States,,,,,America/Chicago,37.751,-97.822,0
+104.29.13.43,US,United States,,,,,America/Chicago,37.751,-97.822,0
+104.29.13.45,US,United States,,,,,America/Chicago,37.751,-97.822,0
+104.29.13.5,US,United States,,,,,America/Chicago,37.751,-97.822,0
+113.198.184.10,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+117.16.2.224,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+121.0.97.24,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+121.178.165.18,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+123.58.201.213,CN,China,BJ,Beijing,,,Asia/Shanghai,39.9289,116.3883,0
+125.131.181.26,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+125.141.135.207,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+129.154.192.165,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.192.233,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.196.190,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.200.161,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.204.104,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.204.25,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.204.95,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.205.245,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.209.229,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.209.244,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.221.170,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.48.11,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.50.159,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.52.231,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.52.247,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.53.1,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.53.18,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.55.204,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.55.57,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.56.59,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+129.154.63.95,AU,Australia,NSW,New South Wales,Sydney,2000,Australia/Sydney,-33.8591,151.2002,0
+13.124.38.106,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+13.209.191.4,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+13.209.249.158,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+13.209.50.45,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+13.225.114.124,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+13.225.114.80,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+130.162.129.115,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.132.157,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.136.77,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.138.165,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.139.175,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.139.184,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.140.242,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.144.35,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.150.199,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.154.209,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.158.108,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.158.69,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+130.162.159.78,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+131.186.16.7,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.17.41,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.18.8,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.19.206,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.20.250,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.22.252,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.24.206,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.25.42,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+131.186.28.236,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+132.145.81.117,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.81.22,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.83.115,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.89.158,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.90.116,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.90.150,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.94.222,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.145.95.16,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+132.226.18.102,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.19.19,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.20.84,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.225.122,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.229.255,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.23.200,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.233.169,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.233.5,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.237.49,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+132.226.238.120,NL,Netherlands,NH,North Holland,Amsterdam,1091,Europe/Amsterdam,52.3534,4.9087,0
+138.2.112.23,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.112.91,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.114.20,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.114.58,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.114.77,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.117.179,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.118.138,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.118.181,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.121.114,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.125.129,US,United States,,,,,America/Chicago,37.751,-97.822,0
+138.2.127.132,US,United States,,,,,America/Chicago,37.751,-97.822,0
+140.238.15.226,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.17.123,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.17.215,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.19.2,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.28.86,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.29.117,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.30.41,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+140.238.8.113,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+141.164.34.182,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+141.164.34.209,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+141.164.34.244,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+141.164.46.227,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+141.164.55.104,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+141.164.61.32,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+144.24.67.205,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.69.25,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.70.31,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.70.52,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.73.19,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.73.2,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.74.115,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.74.51,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.78.162,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.79.237,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.79.54,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.80.203,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.80.46,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.82.37,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.83.117,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.83.175,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.84.10,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.88.107,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.89.14,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.89.200,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.90.13,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.91.125,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.92.170,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.92.193,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.94.50,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+144.24.95.189,GB,United Kingdom,ENG,England,London,EC2V,Europe/London,51.5164,-0.093,0
+146.56.100.177,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.102.223,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.112.232,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.115.211,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.117.169,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.119.35,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.119.58,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.129.8,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.131.233,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.132.66,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.134.132,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.134.146,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.137.186,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.137.220,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.137.71,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.140.73,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.144.146,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.144.58,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.144.67,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.145.38,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.146.138,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.146.167,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.146.7,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.148.218,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.149.178,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.149.212,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.150.51,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.152.154,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.157.171,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.157.246,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.158.151,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.159.98,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.161.34,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.162.3,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.166.197,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.167.171,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.167.69,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.169.10,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.170.255,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.171.19,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.178.72,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.178.79,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.180.112,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.180.167,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.180.247,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.181.173,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.183.102,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.183.16,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.185.174,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.185.40,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.187.229,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.188.143,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.189.193,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.190.115,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.190.177,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.191.124,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.36.239,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.36.63,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.37.233,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.41.187,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.44.27,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.47.154,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.98.45,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+146.56.99.245,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+147.46.181.251,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+147.75.225.95,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+15.164.15.71,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+15.164.79.232,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+152.67.192.33,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.197.242,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.199.68,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.200.200,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.203.51,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.203.96,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.204.143,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.204.69,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.205.196,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.206.53,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.214.114,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.214.201,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.214.73,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.217.223,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.67.218.219,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+152.69.224.15,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.225.227,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.226.134,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.227.122,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.227.187,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.229.50,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.230.237,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.230.93,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.232.43,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.232.78,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.233.7,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.234.15,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.235.224,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.69.235.64,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.232.18,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.233.204,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.235.207,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.235.216,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.237.179,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.238.8,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.241.32,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.249.12,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.249.67,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.250.232,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.250.34,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.253.134,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.38.179,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.88.17,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.90.171,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.93.196,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.93.226,US,United States,,,,,America/Chicago,37.751,-97.822,0
+152.70.94.247,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.180.64.69,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.66.248,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.67.192,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.68.158,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.69.77,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.70.225,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.72.106,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.74.134,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.74.88,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.75.101,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.75.243,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.79.122,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.81.52,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.82.69,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.83.144,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.83.254,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.84.48,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.85.117,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.85.29,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.87.235,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.91.157,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.180.95.52,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+158.247.196.227,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.197.177,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.202.70,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.204.80,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.209.86,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.214.246,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.217.145,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.219.4,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.220.51,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.224.30,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.239.133,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.241.178,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.243.47,US,United States,,,,,America/Chicago,37.751,-97.822,0
+158.247.252.11,US,United States,,,,,America/Chicago,37.751,-97.822,0
+165.194.200.2,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+175.45.210.46,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+18.67.47.218,US,United States,,,,,America/Chicago,37.751,-97.822,0
+180.230.75.235,KR,South Korea,46,Jeollanam-do,Damyang,57344,Asia/Seoul,35.3189,126.9839,0
+183.111.253.174,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+184.85.234.207,US,United States,,,,,America/Chicago,37.751,-97.822,0
+185.214.103.144,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.214,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.233,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.26,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.43,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.86,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.214.103.88,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+185.249.135.132,RO,Romania,,,,,Europe/Bucharest,45.9968,24.997,0
+185.249.135.15,RO,Romania,,,,,Europe/Bucharest,45.9968,24.997,0
+185.249.135.216,RO,Romania,,,,,Europe/Bucharest,45.9968,24.997,0
+185.249.135.23,RO,Romania,,,,,Europe/Bucharest,45.9968,24.997,0
+185.249.135.250,RO,Romania,,,,,Europe/Bucharest,45.9968,24.997,0
+193.122.101.195,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.101.4,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.108.223,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.108.244,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.109.52,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.111.216,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.113.147,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.114.63,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.114.77,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.119.93,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.125.96,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.122.126.123,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+193.123.225.40,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.225.92,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.226.46,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.229.142,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.229.65,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.229.7,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.231.193,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.235.59,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.236.194,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.240.198,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.241.149,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.241.83,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.244.98,US,United States,,,,,America/Chicago,37.751,-97.822,0
+193.123.253.221,US,United States,,,,,America/Chicago,37.751,-97.822,0
+20.249.216.184,US,United States,,,,,America/Chicago,37.751,-97.822,0
+20.39.188.145,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+20.39.193.77,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+20.41.73.249,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+20.41.81.72,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+20.41.85.255,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+202.79.161.157,SG,Singapore,,,,,Asia/Singapore,1.3667,103.8,0
+202.79.161.201,SG,Singapore,,,,,Asia/Singapore,1.3667,103.8,0
+202.79.161.229,SG,Singapore,,,,,Asia/Singapore,1.3667,103.8,0
+202.79.161.252,SG,Singapore,,,,,Asia/Singapore,1.3667,103.8,0
+202.79.161.70,SG,Singapore,,,,,Asia/Singapore,1.3667,103.8,0
+203.232.208.54,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.232.32.69,KR,South Korea,27,Daegu,Daegu,41934,Asia/Seoul,35.8723,128.5924,0
+203.234.41.92,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.237.192.27,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.246.81.78,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+203.249.122.210,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.249.3.169,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.252.23.138,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+203.253.150.84,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.253.93.78,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.255.215.15,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+203.89.8.107,CN,China,FJ,Fujian,,,Asia/Shanghai,24.4798,118.0819,0
+210.102.253.7,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.110.18.135,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.121.229.133,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.122.172.114,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.125.12.55,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.125.162.14,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.220.151.133,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.195.105,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.195.167,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.195.235,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.195.253,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.195.80,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.202.114,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.202.203,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.202.231,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.87.202.49,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.93.11.203,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+210.99.16.200,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+211.222.204.48,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+220.121.131.171,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+220.149.185.50,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+220.66.159.77,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+220.68.55.15,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+221.163.186.56,KR,South Korea,41,Gyeonggi-do,Hwaseong-si,18524,Asia/Seoul,37.1825,126.8783,0
+223.194.41.9,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+223.195.97.39,KR,South Korea,41,Gyeonggi-do,Hwaseong-si,18524,Asia/Seoul,37.1825,126.8783,0
+23.203.175.207,US,United States,FL,Florida,Port Saint Lucie,34952,America/New_York,27.2913,-80.2978,548
+27.102.102.148,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+3.35.184.130,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.35.233.195,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.36.21.114,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.36.60.178,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.37.137.195,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.38.185.175,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.38.244.153,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.38.77.62,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.39.157.127,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.39.233.67,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+3.39.48.213,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+34.22.100.72,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.111.116,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.111.228,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.68.147,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.77.135,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.84.117,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.87.246,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.22.92.110,US,United States,,,,,America/Chicago,37.751,-97.822,0
+34.64.105.13,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.105.145,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.106.167,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.109.105,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.126.156,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.133.64,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.137.183,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.138.197,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.152.28,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.158.3,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.181.62,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.186.99,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.188.128,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.234.241,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.237.224,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.242.181,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.32.149,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.37.97,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.42.123,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.42.244,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.73.79,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.92.83,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.93.74,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+34.64.98.106,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+38.60.220.166,US,United States,,,,,America/Chicago,37.751,-97.822,0
+43.128.148.134,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.131.235.132,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.131.243.27,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.131.253.21,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.133.227.105,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.133.230.46,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.155.178.228,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.24.86,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.3.76,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.3.77,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.48.76,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.53.173,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.200.79.116,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.106.189,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.108.92,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.111.61,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.14.45,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.149.72,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.201.226.82,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.202.173.7,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.202.53.254,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.202.56.190,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.202.59.137,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.203.101.103,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.203.109.92,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+43.203.238.250,JP,Japan,,,,,Asia/Tokyo,35.69,139.69,0
+45.135.118.146,IT,Italy,,,,,Europe/Rome,43.1479,12.1097,0
+45.141.139.11,EE,Estonia,,,,,Europe/Tallinn,59,26,0
+45.141.139.231,EE,Estonia,,,,,Europe/Tallinn,59,26,0
+45.154.12.241,NL,Netherlands,,,,,Europe/Amsterdam,52.3824,4.8995,0
+45.158.168.118,LT,Republic of Lithuania,,,,,Europe/Vilnius,56,24,0
+45.158.168.211,LT,Republic of Lithuania,,,,,Europe/Vilnius,56,24,0
+45.158.169.172,LT,Republic of Lithuania,,,,,Europe/Vilnius,56,24,0
+45.93.28.149,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+45.93.28.54,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+45.93.28.70,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+45.93.31.163,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+45.93.31.53,GB,United Kingdom,,,,,Europe/London,51.4964,-0.1224,0
+45.94.68.108,EE,Estonia,,,,,Europe/Tallinn,59,26,0
+49.247.155.126,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+49.247.156.252,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+49.247.158.103,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+49.247.159.155,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+49.247.160.184,KR,South Korea,,,,,Asia/Seoul,37.5112,126.9741,0
+52.78.159.61,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+52.78.171.243,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+52.78.187.211,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+52.78.30.132,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+52.78.46.194,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+52.85.230.121,US,United States,WA,Washington,Seattle,98109,America/Los_Angeles,47.6348,-122.3451,819
+54.180.160.231,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+54.180.88.155,KR,South Korea,28,Incheon,Incheon,21539,Asia/Seoul,37.4562,126.7288,0
+54.192.175.32,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+54.192.60.130,US,United States,WA,Washington,Seattle,98101,America/Los_Angeles,47.6109,-122.3303,819
+54.230.169.86,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.176.108,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.176.110,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.176.92,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.61.129,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.61.3,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+54.230.61.85,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
+59.10.70.139,KR,South Korea,11,Seoul,Seocho-gu,6596,Asia/Seoul,37.4965,127.0088,0
+59.3.3.161,KR,South Korea,46,Jeollanam-do,Naju,58303,Asia/Seoul,34.9066,126.6651,0
+64.110.65.75,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.66.142,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.68.190,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.75.81,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.77.64,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.80.110,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.80.159,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.80.220,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.82.170,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.84.152,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.86.38,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.87.163,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.110.91.27,CH,Switzerland,,,,,Europe/Zurich,47.1449,8.1551,0
+64.176.225.95,US,United States,MA,Massachusetts,Andover,1810,America/New_York,42.6508,-71.1607,506
+64.176.226.180,US,United States,MA,Massachusetts,Andover,1810,America/New_York,42.6508,-71.1607,506
+8.213.132.65,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+8.213.151.245,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+8.220.205.21,SG,Singapore,,,Singapore,18,Asia/Singapore,1.2929,103.8547,0
+92.38.135.27,KR,South Korea,11,Seoul,Seoul,2878,Asia/Seoul,37.5985,126.9783,0
+99.86.207.48,US,United States,WA,Washington,Seattle,98108,America/Los_Angeles,47.54,-122.3032,819
