@@ -715,7 +715,6 @@
 103.44.89.20:443 #KR
 222.231.27.216:443 #KR
 1.224.180.177:443 #KR
-wheels automobile garage	Wheels Pickup &amp; SUV Casting Alloy Supplier
 125.178.33.161:443 #KR
 121.125.73.51:443 #KR
 13.125.4.245:443 #KR
